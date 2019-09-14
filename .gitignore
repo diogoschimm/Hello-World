@@ -3,3 +3,8 @@
 ################################################################################
 
 /VB.NET/Console-NetFramework/.vs/Console-NetFramework/v16/Server/sqlite3
+/CSharp/Console-NetFramework/.vs/Console-NetFramework/v16/Server/sqlite3/storage.ide-wal
+*.ide-shm
+*.ide
+*.lock
+*.suo
