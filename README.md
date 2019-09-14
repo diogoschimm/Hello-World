@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+Repositório com projetos de Hello World
+
+CSharp 
+VB.NET 
