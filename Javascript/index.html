@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Programa Hello World</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    </head>
+    <body>
+        <div></div>
+        <script>
+            
+            var nomeLinguagem = 'Javascript';
+            
+            // Utilzando alert
+            alert(`Hello World ${nomeLinguagem} `);
+
+            // Utlizando Console.log
+            console.log(`Hello World ${nomeLinguagem}`);
+
+            // Escrevendo no DOM
+            var divElement = document.querySelector('div');
+            var textElement = document.createTextNode(`Hello World ${nomeLinguagem}`);
+
+            divElement.appendChild(textElement); 
+
+        </script>
+    </body>
+</html>
