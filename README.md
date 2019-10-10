@@ -48,7 +48,7 @@ Projeto de Exemplo (Hello World), exemplo com interpolação de string (variavel
 
 
 
-## Delhpi
+## Delphi
 ### Console Application (Delphi)
 Projeto de Exemplo (Hello World), exemplo com showMessage
 
