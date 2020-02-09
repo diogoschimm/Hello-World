@@ -65,7 +65,7 @@ Projeto de Exemplo (Hello World), exemplo com showMessage
 ```
 
 ## ReactJS
-Projeto de Exemplo (Hello World), exemplo com React.Render
+Projeto de Exemplo (Hello World), exemplo com ReactDOM.Render
 
 Scripts para adicionar na página HTML
 ```
